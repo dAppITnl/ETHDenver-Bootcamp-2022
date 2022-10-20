@@ -46,6 +46,8 @@ Checked with the [ETH explorer](https://etherscan.io/):
 
   for 96M (thereafter in 10M transfers further transferred)
 
+  => An Hack of 600M$ for 3$ gas fee
+
 - [0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda](https://etherscan.io/tx/0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda)
 
   at Aug-19-2021 02:31:31 AM +UTC
@@ -56,12 +58,16 @@ Checked with the [ETH explorer](https://etherscan.io/):
 
   for 160 Ether ($210K)
 
+  => Bounty send to hacker..
+
 
 ## Question 2: largest account balance found:
 
 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 to 0x34d6b21d7b773225a102b382815e00ad876e23c2
 
 Amount 96M
+
+=> https://etherscan.io/accounts -> sort Top Accounts by Etherscan.
 
 
 ## Question 3: Special accounts:
@@ -106,5 +112,5 @@ contract BootcampContract {
     Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
 
     Executed:
-    
+
     ![Executed](./Homework02-DeployedContract-Executed.png)
