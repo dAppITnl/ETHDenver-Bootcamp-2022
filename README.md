@@ -2,7 +2,7 @@
 
 ## Program:
 
-- Week 1: Intro to Blockchain
+- **Week 1: Intro to Blockchain**
 
   mo 17.oct.22 lesson 01 intro blockchain / encryption
 
@@ -12,7 +12,7 @@
 
   th 20.oct.22 lesson 04 intro Solidity 2
 
-- Week 2: Solidity Introduction
+- **Week 2: Solidity Introduction**
 
   mo 24.oct.22 lesson 05
 
@@ -22,7 +22,7 @@
 
   th 27.oct.22 lesson 08
 
-- Week 3: Smart contract week
+- **Week 3: Smart contract week**
 
   mo 31.oct.22 lesson 09
 
@@ -32,7 +32,7 @@
 
   th 03.nov.22 lesson 12
 
-- Week 4: dApp Design
+- **Week 4: dApp Design**
 
   mo 07.nov.22 lesson 13
 
@@ -42,7 +42,7 @@
 
   th 10.nov.22 lesson 16
 
-- Week 5: Security
+- **Week 5: Security**
 
   mo 14.nov.22 lesson 17
 
@@ -52,7 +52,7 @@
 
   th 17.nov.22 lesson 20
 
-- Week 6: Advanced Coding
+- **Week 6: Advanced Coding**
 
   mo 21.nov.22 lesson 21
 
@@ -62,10 +62,10 @@
 
   th 24.nov.22 lesson 24
 
-- Week 7: Partner presentations
+- **Week 7: Partner presentations**
 
   tba
 
-- Week 8: Project week
+- **Week 8: Project week**
 
   tba
