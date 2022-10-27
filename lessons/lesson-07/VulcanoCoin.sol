@@ -1,10 +1,9 @@
 //SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-// added
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract VulcanoCoin is Ownable /*added*/ {
+contract VulcanoCoin is Ownable {
     uint256 totalSupply = 10000;
 
     mapping(address => uint256) public balances;
@@ -19,7 +18,6 @@ contract VulcanoCoin is Ownable /*added*/ {
     event logSupply(uint256);
     event logTransfer(address, uint256);
 
-    // changed to inherit constructor from parent Ownable.sol
     constructor() Ownable() {
         balances[owner()] = totalSupply;
     }
@@ -38,21 +36,33 @@ contract VulcanoCoin is Ownable /*added*/ {
         return balances[_user];
     }
 
+    // Hw7: Make use of recordPayment()
     function transfer(address _recipient, uint256 _amount) public payable {
-        require(_recipient != address(0), "Invalid address");
-        require(_amount > 0, "Invalid amount!");
-        require(balances[msg.sender] >= _amount, "User has not enough supply!");
-
-        balances[_recipient] += _amount;
-        balances[msg.sender] -= _amount;
-
-        userPayments[msg.sender].push(Payment({recipient:_recipient, amount:_amount})); /*19b*/
-
-        emit logTransfer(_recipient, _amount);
+        recordPayment(msg.sender, _recipient, _amount);
     }
 
+    /* Hw7: already done.
+     * Difference with making mapping public: here it lists all payments of the user,
+     * with mapping it needs an index -> only 1 payment
+     */
     function getUserPayments(address _user) public view returns(Payment[] memory) {
         require(_user != address(0), "Invalid address!");
         return userPayments[_user];
+    }
+
+    // Hw7: added
+    function recordPayment(address _sender, address _receiver, uint256 _amount) public payable {
+        require(_sender != address(0), "Invalid sender address!");
+        require(_receiver != address(0), "Invalid receiver address!");
+        require(_receiver != owner(), "Receiver can not be this contract!");
+        require(_amount > 0, "Amount must be greater then 0!");
+        require(balances[_sender] >= _amount, "Sender has not enough supply!");
+
+        balances[_receiver] += _amount;
+        balances[_sender] -= _amount;
+
+        userPayments[_sender].push(Payment({recipient:_receiver, amount:_amount})); /*19b*/
+
+        emit logTransfer(_receiver, _amount);
     }
 }

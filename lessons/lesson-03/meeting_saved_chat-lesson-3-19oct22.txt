@@ -1,0 +1,672 @@
+20:01:49 From  Danny | Bohnemann  to  Everyone:
+	gm
+20:01:51 From  Derrek Coleman  to  Everyone:
+	gm
+20:01:53 From  Ahsan Syed  to  Everyone:
+	gm
+20:01:55 From  Zubin | zkMake.eth  to  Everyone:
+	gm
+20:01:55 From  Nick Lamb  to  Everyone:
+	gm
+20:01:57 From  bx pana  to  Everyone:
+	gm gm gm
+20:01:59 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:02:01 From  Nikhil Bhintade  to  Everyone:
+	hi
+20:02:01 From  Latricia Nickelberry  to  Everyone:
+	gm
+20:02:01 From  Vansh  to  Everyone:
+	gm 🌅
+20:02:02 From  jaypeeee  to  Everyone:
+	gee-em
+20:02:02 From  Jana  to  Everyone:
+	gm
+20:02:03 From  Ryan R. Fox | Algorand  to  Everyone:
+	gm
+20:02:05 From  Austin Motley  to  Everyone:
+	gm guys
+20:02:05 From  Charles Freeborn  to  Everyone:
+	GM
+20:02:05 From  Piære  to  Everyone:
+	👋🏻
+20:02:07 From  Iacopo P  to  Everyone:
+	ge
+20:02:10 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	gm from Coloraado!
+20:02:10 From  Antonio Di Francesco  to  Everyone:
+	gm
+20:02:14 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	gm
+20:02:15 From  iouri volkov  to  Everyone:
+	Gm!
+20:02:16 From  David Kathoh  to  Everyone:
+	Gm Gm
+20:02:17 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	gm people
+20:02:17 From  icculus.lyx#3787  to  Everyone:
+	GM
+20:02:19 From  kevinpz  to  Everyone:
+	GM GM GM
+20:02:22 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:02:25 From  Enkhmanal#4697  to  Everyone:
+	ge
+20:02:25 From  walo.spiegel#7137  to  Everyone:
+	gm
+20:02:29 From  Daniel Rezaii  to  Everyone:
+	Hi
+20:02:31 From  Mo Kaiko#1069  to  Everyone:
+	gm
+20:02:38 From  Rodrigo Iglesias - text  to  Everyone:
+	Hi to all!
+20:02:47 From  Frances He  to  Everyone:
+	GM
+20:02:50 From  Juan Isaac  to  Everyone:
+	Hey everyone.
+20:02:53 From  Antonio Di Francesco  to  Everyone:
+	GM
+20:02:54 From  theDragonDaniel  to  Everyone:
+	hello
+20:02:58 From  Ioannis Gkliatis  to  Everyone:
+	gm and ge
+20:03:01 From  Yash Jagtap  to  Everyone:
+	gmm
+20:03:15 From  Tim Wolters  to  Everyone:
+	ga!
+20:03:15 From  JB87  to  Everyone:
+	gm
+20:03:17 From  Ihab | Hebx  to  Everyone:
+	Wagmi ! 
+20:03:29 From  c114#4508  to  Everyone:
+	GM
+20:03:34 From  Cas  to  Everyone:
+	GN
+20:04:38 From  Sparx | Extropy  to  Everyone:
+	Slido Link: https://app.sli.do/event/mGCCEA24h1VE579HSL4mav
+20:05:03 From  Joshua Rainwater  to  Everyone:
+	Gm Gm
+20:06:05 From  c114#4508  to  Everyone:
+	can I add the homework question in gh
+20:06:56 From  Obaid  to  Everyone:
+	public
+20:07:30 From  Jamie - lilpizza.eth  to  Everyone:
+	what was the public keyword for again?
+20:07:32 From  Jamie - lilpizza.eth  to  Everyone:
+	sorry missed that
+20:07:45 From  Elvin Kakomo  to  Everyone:
+	GM
+20:07:52 From  Obaid  to  Everyone:
+	It creates a getter function for variable
+20:07:58 From  Jamie - lilpizza.eth  to  Everyone:
+	ah gotcha
+20:08:04 From  Shane Duncan  to  Everyone:
+	Hi all.
+20:08:21 From  Sparx | Extropy  to  Everyone:
+	public can be called internally by the contract itself and external callers (provides a getter function)
+20:08:36 From  Sparx | Extropy  to  Everyone:
+	(for functions)
+20:09:01 From  Jamie - lilpizza.eth  to  Everyone:
+	gotcha, so without it it's internal calls only?
+20:09:36 From  Kunal J  to  Everyone:
+	@Jamie public keyword allows the function to be called by anyone/function outside of the contract or any function internally. It also creates a getter function for the same so that you can read some data
+20:09:50 From  Cas  to  Everyone:
+	local blockchain via Ganache app
+20:10:06 From  Jamie - lilpizza.eth  to  Everyone:
+	thanks everyone
+20:10:43 From  Sparx | Extropy  to  Everyone:
+	Please ask on slido too, so this can be archived for future classes
+20:10:45 From  Sparx | Extropy  to  Everyone:
+	https://codingsrc.com/wp-content/uploads/2019/06/Slide5-1.jpg
+20:11:05 From  Moiz Sajid  to  Everyone:
+	Can someone from Encode team please start the recording?
+20:11:12 From  Danny | Bohnemann  to  Everyone:
+	it is 🙂
+20:15:18 From  Luke Blackburn  to  Everyone:
+	fyi.. alot of people use the _ in front of a parameter name so they can differentiate from a global variable
+20:16:02 From  Marissa Curry  to  Everyone:
+	that slide is very helpful thank yiu
+20:16:05 From  Jamie - lilpizza.eth  to  Everyone:
+	Thanks
+20:16:08 From  Tim Wolters  to  Everyone:
+	thanks on font size!!
+20:19:12 From  c114#4508  to  Everyone:
+	isn't data is Immutable in a contract?
+20:19:42 From  Jamie - lilpizza.eth  to  Everyone:
+	It is, you have to redeploy every time you make changes to a contract
+20:19:56 From  Sparx | Extropy  to  Everyone:
+	the contract i.e. the bytecode is, but data/state is mutable
+20:20:15 From  Rasheed Mudasiru  to  Everyone:
+	⭐
+20:20:33 From  Derrek Coleman  to  Everyone:
+	We’ll also cover the interesting “upgradable” proxy pattern for deployment much later
+20:20:53 From  c114#4508  to  Everyone:
+	ok cool
+20:22:07 From  Jorge Aspas  to  Everyone:
+	so a modifier is something similar to a decorator in python?
+20:22:39 From  Sparx | Extropy  to  Everyone:
+	It's similar to middleware in nodejs
+20:23:11 From  Jamie - lilpizza.eth  to  Everyone:
+	so essentially provides an early exit to a function if a condition isn't met
+20:23:21 From  Marissa Curry  to  Everyone:
+	ahh like a iterator
+20:23:24 From  Sparx | Extropy  to  Everyone:
+	exactly
+20:23:26 From  Marissa Curry  to  Everyone:
+	is it like an iterator
+20:24:02 From  Sparx | Extropy  to  Everyone:
+	Not, like an iterator no, but usually has a condition to see if the function can run or not
+20:25:52 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	doesn't owner default to zero address?
+20:26:13 From  Marissa Curry  to  Everyone:
+	could it be smiliar to a while loop
+20:26:19 From  Marissa Curry  to  Everyone:
+	or for loop because its stopping it
+20:26:28 From  Sparx | Extropy  to  Everyone:
+	No, it's the EOA (externally owned account) that deployed the contract
+20:26:44 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	where do we set the owner?
+20:27:08 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	is it a solidity feature to automatically set the variable called "owner"?
+20:27:11 From  dareadebonojo  to  Everyone:
+	Owner should be the address that deployed the contract
+20:27:11 From  c114#4508  to  Everyone:
+	yes same question
+20:27:12 From  Sparx | Extropy  to  Everyone:
+	Oh you mean in this instance, yes it needs to be set in constructor
+20:27:17 From  Juan Isaac  to  Everyone:
+	In a constructor()
+20:27:18 From  icculus.lyx#3787  to  Everyone:
+	So if the modifier if true calls the function that contains that modifier, does that mean its a 1:1 or can you have many functions with that same modifier of onlyOwner and all the functions that have that will be called in order?
+20:27:24 From  Kunal J  to  Everyone:
+	right now owner variable is set to 0 address
+20:27:28 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	YES!
+20:27:33 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	phew
+20:27:45 From  Kunal J  to  Everyone:
+	we have to specify that the account that deployed the contract is the owner
+20:27:46 From  Juan Isaac  to  Everyone:
+	Or we can hardcode it
+20:28:11 From  Mo Kaiko#1069  to  Everyone:
+	it need a constructor to set owner
+20:28:22 From  Paul Len  to  Everyone:
+	@icculus, the modifier proceeds with the function at "_;"
+20:28:31 From  Derrek Coleman  to  Everyone:
+	@icculus what do you mean “will be called in that order?” Many functions can share the onlyOwner modifier, but only one is called at a time, right?
+20:28:37 From  JanarDot#1311  to  Everyone:
+	so - stupid question... but is it automatically 'reusable’? does like the sender address clears out after use and the contract can be used again by a new sender? or does something needs to be added?
+20:28:44 From  Kunal J  to  Everyone:
+	@Juan it a best practice to not hardcode addresses but rather creating function to set owner
+20:29:22 From  Yash Jagtap  to  Everyone:
+	 https://docs.soliditylang.org/en/v0.8.17/style-guide.html#function-declaration
+20:30:25 From  Paul Len  to  Everyone:
+	@janar, it cannot be reused. deployed contracts are immutable, so if you accidentally deploy a contract with owner = 0x address, and there is no function to change the owner, that contract is locked forever
+20:30:40 From  Paul Len  to  Everyone:
+	or rather, i guess the owner of the contract is locked
+20:31:14 From  JanarDot#1311  to  Everyone:
+	okay, thanks. but didn't he just say 'new sender' or did I get that wrong?
+20:31:32 From  Paul Len  to  Everyone:
+	so, you can just click "deploy" again, and delpoy the contract to a new address
+20:31:43 From  Paul Len  to  Everyone:
+	but the old contract is gonna live at the old address forever
+20:32:18 From  Derrek Coleman  to  Everyone:
+	Are you asking about the smart contract code being reusable or the onlyOwner modifier being reusable within the contract?
+20:32:20 From  JanarDot#1311  to  Everyone:
+	makes sense. thanks for explaining 🙏
+20:33:32 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	could someone please reshare the sli.do link/code
+20:33:39 From  Iacopo P  to  Everyone:
+	https://app.sli.do/event/mGCCEA24h1VE579HSL4mav/live/questions
+20:33:45 From  JanarDot#1311  to  Everyone:
+	I just got confused …cos I understood he said 'new sender' and that is where I got confused about ‘resuability' of the same contract
+20:34:47 From  Yash Jagtap  to  Everyone:
+	function updateOwner(address _owner) public onlyOwner {
+	        owner = _owner;
+	    }
+20:35:02 From  Derrek Coleman  to  Everyone:
+	^ yes Yash!
+20:35:25 From  Enkhmanal#4697  to  Everyone:
+	can you have mutliple modifiers on functions
+20:35:30 From  Kunal J  to  Everyone:
+	yes
+20:35:43 From  Paul Len  to  Everyone:
+	^ easy to test in remix :)
+20:35:48 From  Kunal J  to  Everyone:
+	you can have any number of modifiers in a function
+20:36:07 From  Enkhmanal#4697  to  Everyone:
+	how would the syntax look like to have multiple modifiers? do you use comma in between
+20:36:31 From  Yash Jagtap  to  Everyone:
+	just modifer name withourt any commas
+20:36:32 From  Obaid  to  Everyone:
+	space I guess
+20:36:45 From  David Kathoh  to  Everyone:
+	Just space between modifiers
+20:36:51 From  Enkhmanal#4697  to  Everyone:
+	Thanks
+20:36:52 From  Juan Isaac  to  Everyone:
+	We use modifiers for access control. When we want to restrict certain actions we use modifiers .
+20:37:07 From  Paul Len  to  Everyone:
+	no commas
+20:37:18 From  SIDDHARTH UPPAL  to  Everyone:
+	coico
+20:37:35 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	hardcoding owner is bad. if the project goes big and you want to transfer the ownership to a multisig wallet, you cannot do that with a hardcoded owner address
+20:37:40 From  Jamie - lilpizza.eth  to  Everyone:
+	Just to clarify, since the constructor is only run when the contract is deployed; this ensures that msg.sender will always equal the owner of the contract, correct?
+20:37:41 From  Enkhmanal#4697  to  Everyone:
+	I understand that private fields cannot be viewed without getter function, but can there really be private field on public blockchain?
+20:37:47 From  Austin Motley  to  Everyone:
+	What is the _; for?
+20:38:02 From  Paul Len  to  Everyone:
+	_; kind of means "modifier passed, continue"
+20:38:06 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Jamie yes, owner is going to be the wallet that deploys the contract
+20:38:06 From  Yash Jagtap  to  Everyone:
+	for when to execute the modifier
+20:38:08 From  c114#4508  to  Everyone:
+	zero account is  0x000...0000, right?
+20:38:14 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Austin _; means "continue the execution"
+20:38:16 From  Sparx | Extropy  to  Everyone:
+	it's to jump back to the initial function that called teh modifier
+20:38:27 From  Austin Motley  to  Everyone:
+	thank you :)
+20:38:31 From  Neiluna  to  Everyone:
+	@Paul Len, not really
+20:38:49 From  Neiluna  to  Everyone:
+	_; just means, execute whatever function this modifier is being applied to
+20:39:01 From  Obaid  to  Everyone:
+	like It copies the code inside the modifier you applying to
+20:39:02 From  Paul Len  to  Everyone:
+	yeah, continue with the function.
+20:39:07 From  icculus.lyx#3787  to  Everyone:
+	So the function is called, sees that a modifier is listed, it then goes to modifier for the rule and if passed, it goes back to the function and enters in the code
+20:39:19 From  icculus.lyx#3787  to  Everyone:
+	is that the correct order?
+20:39:36 From  Yash Jagtap  to  Everyone:
+	yes
+20:39:41 From  icculus.lyx#3787  to  Everyone:
+	thank yo
+20:39:43 From  icculus.lyx#3787  to  Everyone:
+	u*
+20:39:48 From  Kunal J  to  Everyone:
+	yes @icculus
+20:40:22 From  Kunal J  to  Everyone:
+	@jamie I can explain it on discord
+20:40:29 From  Kunal J  to  Everyone:
+	later after class ?
+20:41:04 From  Jamie - lilpizza.eth  to  Everyone:
+	sounds good
+20:41:04 From  Jamie - lilpizza.eth  to  Everyone:
+	TY
+20:42:38 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@icculus yes. however, you can also add code after _;
+20:43:13 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	for example you can make a it like:
+20:43:24 From  Frances_#6294  to  Everyone:
+	events used a log in graph protocol usage.
+20:43:36 From  Frances_#6294  to  Everyone:
+	used a lot ->
+20:43:39 From  Gavin | soace#0700  to  Everyone:
+	Do events cost the sender gas when the contract is called?
+20:43:44 From  Yash Jagtap  to  Everyone:
+	no
+20:43:53 From  Gavin | soace#0700  to  Everyone:
+	Nice
+20:43:54 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	require(lock == false); lock = true; _; lock=false;
+20:43:55 From  Juan Isaac  to  Everyone:
+	Part of view()
+20:44:05 From  Yash Jagtap  to  Everyone:
+	it is just for logging the change in state
+20:44:47 From  icculus.lyx#3787  to  Everyone:
+	Thanks Kemal
+20:45:14 From  Sparx | Extropy  to  Everyone:
+	It does cost gas, but whoever called that function that called it would pay for it, its usually very low
+20:45:22 From  Sparx | Extropy  to  Everyone:
+	oops typo
+20:47:44 From  Daniel Iñiguez | danieliniguezv#8256  to  Everyone:
+	what was topic?
+20:48:04 From  walo.spiegel#7137  to  Everyone:
+	identifier of the event, that's what I understood
+20:50:30 From  icculus.lyx#3787  to  Everyone:
+	Do you always need to set global variables into local ones to work within functions? ie : score = newScore ...vs just emit score;
+20:51:06 From  Daniel Rezaii  to  Everyone:
+	No, it is not necessary
+20:51:52 From  Daniel Rezaii  to  Everyone:
+	At least for using in emit statement it is not mandatory
+20:52:03 From  Jamie - lilpizza.eth  to  Everyone:
+	is an event similar to a print function?
+20:53:14 From  electrone  to  Everyone:
+	Yes
+20:53:25 From  Jamie - lilpizza.eth  to  Everyone:
+	cool
+20:53:29 From  Daniel Rezaii  to  Everyone:
+	Not exactly @jamie
+20:53:55 From  Obaid  to  Everyone:
+	You cannot utilize value from print statement
+20:54:01 From  Obaid  to  Everyone:
+	by events we can
+20:54:04 From  Obaid  to  Everyone:
+	in front end
+20:54:12 From  Daniel Rezaii  to  Everyone:
+	It can be different in some aspects
+20:54:39 From  Rodrigo Iglesias - text  to  Everyone:
+	so its like a fetch in a get request
+20:56:10 From  Obaid  to  Everyone:
+	Like on running a function you want user to know changes in state then we use event
+20:56:33 From  Yash Jagtap  to  Everyone:
+	key-value
+20:57:54 From  Derrek Coleman  to  Everyone:
+	when I replace every instance of “score” with “favoriteNumber” in my head, the whole contract makes more sense 🤷🏽‍♂️
+20:58:38 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	¯\_(ツ)_/¯
+20:58:48 From  jaypeeee  to  Everyone:
+	@Derrek what is your fave number then? 😆
+20:58:54 From  Derrek Coleman  to  Everyone:
+	117, easy
+20:58:55 From  Juan Isaac  to  Everyone:
+	Does a mapping work like a mini database?
+20:59:05 From  Daniel Rezaii  to  Everyone:
+	Yes
+20:59:09 From  Jorge Aspas  to  Everyone:
+	so then in the same mapping you cannot store multiple different data types right?
+20:59:15 From  jaypeeee  to  Everyone:
+	Halo reference? haha
+20:59:16 From  Egor Bulychev| E S#4713  to  Everyone:
+	If we gonna create mapping we need to delete only owner, right?
+20:59:33 From  Yash Jagtap  to  Everyone:
+	no 
+20:59:44 From  Yash Jagtap  to  Everyone:
+	these are 2 dofferent things
+20:59:49 From  Egor Bulychev| E S#4713  to  Everyone:
+	Because only owner will be able to create key value pair
+21:00:04 From  Egor Bulychev| E S#4713  to  Everyone:
+	For now only owner can setScore
+21:00:08 From  Obaid  to  Everyone:
+	user
+21:00:09 From  Derrek Coleman  to  Everyone:
+	Well it’s a “score”, which I suppose we only want the owner to have permission to change
+21:00:24 From  Derrek Coleman  to  Everyone:
+	Can’t have everyone setting their own score, can we ;)
+21:00:48 From  Kunal J  to  Everyone:
+	@Derrek Sierra-117 ! nostalgic
+21:01:07 From  Derrek Coleman  to  Everyone:
+	Kunal gets it 🥲
+21:01:21 From  Tim Wolters  to  Everyone:
+	does the compiler do that just because of the "get" prefix?
+21:01:24 From  Juan Isaac  to  Everyone:
+	Set, get, delete .. how we interact with mapping?
+21:01:47 From  Tim Wolters  to  Everyone:
+	compiler warning that is...
+21:01:49 From  jaypeeee  to  Everyone:
+	i think the compiler knew since the body of the function was just returning something
+21:02:10 From  Juan Isaac  to  Everyone:
+	-?
+21:02:35 From  electrone  to  Everyone:
+	@Juan I think, you need to loop through the mapping
+21:03:39 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	Is there any way to halt a contract mid-execution in the console... similar to Javascript's debugger or Ruby's binding.pry?
+21:04:12 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	Juan the get and set are like what he did:	get: calling mappingName[key] 	set: mappingName[key] = _value_	delete: you can't remove an item like other programming languages, just zero it, pretty sure
+21:05:14 From  Juan Isaac  to  Everyone:
+	Thanks!!
+21:05:17 From  Derrek Coleman  to  Everyone:
+	^ right, all address already being initialized at 0 like he just said AND not being “deletable” are two strange things about mappings to get used to
+21:05:40 From  jaypeeee  to  Everyone:
+	could you use something like a subgraph to get all of the scores from the mapping?
+21:05:41 From  Derrek Coleman  to  Everyone:
+	All possible keys have (default) values from the moment the mapping is created
+21:06:02 From  icculus.lyx#3787  to  Everyone:
+	so should you always do a check if the key exists first so it doesn't send the default if its n/a?
+21:06:08 From  Derrek Coleman  to  Everyone:
+	@jp Only if you know the keys to check
+21:06:10 From  Frances_#6294  to  Everyone:
+	Could you set upper limit of mapping size?
+21:06:17 From  jaypeeee  to  Everyone:
+	ah right
+21:06:41 From  Tim Wolters  to  Everyone:
+	If 0 is a valid score that seems like a problem ;)
+21:06:42 From  Derrek Coleman  to  Everyone:
+	You can’t iterate over a mapping like an array
+21:06:44 From  jaypeeee  to  Everyone:
+	i guess you could emit an event everytime a score is updated and then have the subgraph index those events 🤷
+21:06:49 From  Derrek Coleman  to  Everyone:
+	Definitely!
+21:08:51 From  Edison Qu  to  Everyone:
+	so you can't just change the mapping like
+21:08:54 From  Edison Qu  to  Everyone:
+	scoreList[user] = 2;
+21:09:26 From  Derrek Coleman  to  Everyone:
+	setScore(address user) = 2?
+21:09:44 From  Janette Moran  to  Everyone:
+	use a test bet
+21:09:49 From  Gavin | soace#0700  to  Everyone:
+	Logs do cost gas.
+21:09:53 From  Gavin | soace#0700  to  Everyone:
+	Source: https://consensys.net/blog/developers/guide-to-events-and-logs-in-ethereum-smart-contracts/
+21:10:15 From  Janette Moran  to  Everyone:
+	net
+21:11:29 From  Luke Blackburn  to  Everyone:
+	thats a one digit number array or an array that has 9 values?
+21:11:38 From  Edison Qu  to  Everyone:
+	^
+21:11:45 From  Derrek Coleman  to  Everyone:
+	The latter
+21:11:46 From  Kyle Smurlolee | Smurflo#9580  to  Everyone:
+	array that has nine values
+21:11:48 From  Luke Blackburn  to  Everyone:
+	i think he labeled that wrong
+21:11:50 From  Luke Blackburn  to  Everyone:
+	ok thanks
+21:14:13 From  Derrek Coleman  to  Everyone:
+	Do we also have .pop and .shift methods on arrays in Solidity?
+21:14:17 From  icculus.lyx#3787  to  Everyone:
+	first line of array start at 0 or 1
+21:14:24 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	0
+21:14:31 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	always
+21:14:32 From  icculus.lyx#3787  to  Everyone:
+	thanks
+21:14:47 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	so it’s 10 numbers 0 to 9
+21:14:53 From  Egor Bulychev| E S#4713  to  Everyone:
+	Can we access last item in the array? Like in python [-1]?
+21:15:04 From  Egor Bulychev| E S#4713  to  Everyone:
+	Or range or items
+21:15:13 From  Derrek Coleman  to  Everyone:
+	Isn’t his example as written 9 total spots: indices 0 through 8?
+21:15:15 From  Egor Bulychev| E S#4713  to  Everyone:
+	Range of items**
+21:15:32 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Egor you can do itemArray[itemArray.length - 1] for the last element
+21:15:39 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	range, I don't think it exists
+21:15:40 From  Egor Bulychev| E S#4713  to  Everyone:
+	Ye, but if don’t know size of the array
+21:15:46 From  Derrek Coleman  to  Everyone:
+	Or does 9 mean 10 spots because the counting starts at 0
+21:16:04 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Egor array has a length variable, you don't need to know the size of the array to get the last item
+21:16:24 From  Egor Bulychev| E S#4713  to  Everyone:
+	Ye, you right
+21:16:35 From  Derrek Coleman  to  Everyone:
+	what would be the length of an array initialized like array[0]?
+21:17:01 From  Derrek Coleman  to  Everyone:
+	uint256[0] exampleArray?
+21:17:01 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	array[0] to array[9] => 10 numbers @derek
+21:17:18 From  Derrek Coleman  to  Everyone:
+	Woof, good to know. Thanks Anthony
+21:17:24 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Derrek uint256[9] oneDigitNumber means the array oneDigitNumber has slots from 0 to 8
+21:17:55 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	really? @kemal?
+21:18:01 From  Ryan R. Fox | Algorand  to  Everyone:
+	@Derrek TypeError: Array with zero length specified.
+21:18:12 From  Derrek Coleman  to  Everyone:
+	Aha! Looks like Kemal’s definition then
+21:18:34 From  Derrek Coleman  to  Everyone:
+	Much more intuitive: [1] should mean length 1, not length 2
+21:18:34 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Oh right on array[9] you have enfofline
+21:18:47 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	I’ll try later
+21:19:05 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Confused. Sorry if I gave wrong info.
+21:19:22 From  Derrek Coleman  to  Everyone:
+	Hence my initial confusion, why didn’t he write uint256[10] oneDigitNumber. Just a subtlety
+21:19:40 From  Derrek Coleman  to  Everyone:
+	All good, Anthony 🤝
+21:20:24 From  jp angelle  to  Everyone:
+	hm sounds like a good way to attack a contract 👀
+21:21:04 From  Kyle Smurlolee | Smurflo#9580  to  Everyone:
+	uint[9] means nine slots in the array, indexes 0 to 8. Just tried out setting "array[9] = 9" and the compiler yelled at me
+21:21:06 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Anthony yes, I just tested in Remix myself
+21:21:53 From  Derrek Coleman  to  Everyone:
+	addressssss
+21:21:58 From  Obaid  to  Everyone:
+	can we define method inside struct?
+21:22:25 From  Marissa Curry  to  Everyone:
+	^^
+21:22:33 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	no methods inside a struct
+21:22:39 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	yes end of line so you can loop through the array
+21:23:02 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	makes sense, although odd when initializing.
+21:23:20 From  icculus.lyx#3787  to  Everyone:
+	I think we just went through a semester's worth of coding in 1 hr 😱
+21:23:39 From  icculus.lyx#3787  to  Everyone:
+	💪🏽
+21:23:55 From  Rodrigo Iglesias - text  to  Everyone:
+	haha
+21:23:56 From  Derrek Coleman  to  Everyone:
+	I was just thinking the same, icculus. Anyone without a strong web2/CS background, “it’s okay if this doesn’t make sense right now”
+21:23:59 From  Chris Quiles @cquiles  to  Everyone:
+	😅
+21:24:00 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	You learn how to code in school anyway haha
+21:24:18 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	dont**
+21:24:34 From  jp angelle  to  Everyone:
+	bootcamps ftw
+21:24:50 From  Tim Wolters  to  Everyone:
+	indeed.  I signed up for a coursera course a while back and I think we are currently at week 4 😆
+21:24:52 From  Sparx | Extropy  to  Everyone:
+	As a progammer you have to get used to the feeling of "I dont understand this right now, but i will figure it out soon"
+21:25:08 From  Yash Jagtap  to  Everyone:
+	constant process
+21:25:10 From  walo.spiegel#7137  to  Everyone:
+	my university quarter system got me used to this hahahah
+21:25:20 From  Derrek Coleman  to  Everyone:
+	+1 Sparx
+21:25:25 From  Obaid  to  Everyone:
+	WAGMI guys don't worry
+21:25:32 From  Derrek Coleman  to  Everyone:
+	Zen Mind, Beginner’s Mind
+21:25:35 From  Austin Motley  to  Everyone:
+	WAGMI :)
+21:25:45 From  Gavin | soace#0700  to  Everyone:
+	Can I also init a Funder like this? `Funder giver = Funder(msg.sender, 10)`
+21:25:47 From  Derrek Coleman  to  Everyone:
+	wagmi 💞
+21:25:48 From  jp angelle  to  Everyone:
+	what happens if you dont set one of the values of struct?
+21:25:55 From  Ryan R. Fox | Algorand  to  Everyone:
+	@Laurence !!good stuff today!!
+21:26:02 From  Rodrigo Iglesias - text  to  Everyone:
+	you cant see the full puzzle with one piece, with time they'll all fit
+21:26:06 From  Derrek Coleman  to  Everyone:
+	@jp my guess is default values strike again! Just a guess though
+21:26:06 From  Rodrigo Iglesias - text  to  Everyone:
+	:)
+21:26:08 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@jp it gets set to the default value (0 for uints, zero address for addresses...)
+21:26:28 From  walo.spiegel#7137  to  Everyone:
+	Thanks Laurence
+21:26:30 From  jp angelle  to  Everyone:
+	ah ok, yup
+21:26:33 From  Ihab | Hebx  to  Everyone:
+	Gm All ! 
+21:26:37 From  Daniel Iñiguez | danieliniguezv#8256  to  Everyone:
+	what does or when can one use syntax such as this(dot)that?
+21:26:38 From  Greta Ivanauskaite  to  Everyone:
+	so struct in essence is an object but does not have methods?
+21:26:44 From  Charles Freeborn | charliecodes#8351  to  Everyone:
+	Thanks Laurence.
+21:26:50 From  Frances_#6294  to  Everyone:
+	Thx!!!
+21:26:51 From  kvutien  to  Everyone:
+	Thanks, @Laurence
+21:26:53 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Whats the homework?
+21:26:57 From  iouri volkov  to  Everyone:
+	Thank you Laurence!
+21:26:58 From  Siva Puvvada  to  Everyone:
+	Thanks Laurence
+21:27:10 From  Edison Qu  to  Everyone:
+	where can we see the homeowrk answers of last class
+21:27:33 From  Derrek Coleman  to  Everyone:
+	Who wants to do the homework in the Encode Discord voice chat right after this?
+21:27:35 From  Ihab | Hebx  to  Everyone:
+	Looking forward to teams and collaboration on project.
+21:27:53 From  Juan Isaac  to  Everyone:
+	https://github.com/JdejesusIsaac/ETHDenverBootcamp/blob/main/hw2
+21:28:06 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Yes derreck
+21:28:16 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Derrek let's go!
+21:28:18 From  Kunal J  to  Everyone:
+	Sounds good Derrek
+21:28:32 From  Obaid  to  Everyone:
+	Great Laurence!
+21:28:35 From  Obaid  to  Everyone:
+	Thanks
+21:28:36 From  Rodrigo Iglesias - text  to  Everyone:
+	Thanks Laurence :)
+21:28:36 From  Marissa Curry  to  Everyone:
+	thank you
+21:28:38 From  Tim Wolters  to  Everyone:
+	where are the teams listed?
+21:28:39 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Thanks Laurence!
+21:28:40 From  Kunal J  to  Everyone:
+	Thank you Laurence
+21:28:40 From  Pato Funes  to  Everyone:
+	Amazing Laurence, thank you!
+21:28:44 From  Austin Motley  to  Everyone:
+	thank you :)
+21:28:45 From  katxtong  to  Everyone:
+	thank you!!
+21:28:45 From  Pato Funes  to  Everyone:
+	⚡
+21:28:45 From  Thomas Wedler  to  Everyone:
+	Thank you !
+21:28:47 From  David Anderson  to  Everyone:
+	Thanks!
+21:28:51 From  Piære  to  Everyone:
+	ty Laurence
+21:28:53 From  Obaid  to  Everyone:
+	Amazing lesson
+21:28:57 From  Brian Thuo  to  Everyone:
+	Thank you Lawrence
+21:29:00 From  Juan Isaac  to  Everyone:
+	Thank you laurence
+21:29:00 From  Tim Wolters  to  Everyone:
+	TY!
+21:29:04 From  Marco Giangolini  to  Everyone:
+	thank you all!
+21:29:12 From  Elvin Kakomo  to  Everyone:
+	Thanks Laurance. Great Lesson
+21:29:13 From  Meghana Kallam  to  Everyone:
+	Thanks a lot Laurence!
+21:29:15 From  Glory Agatevure | gconnect#7704  to  Everyone:
+	Link to the homework
+21:29:17 From  Latricia Nickelberry  to  Everyone:
+	Thank you
+21:29:17 From  Ioannis Gkliatis  to  Everyone:
+	Thanks you All!!!!

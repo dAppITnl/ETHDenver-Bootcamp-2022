@@ -1,0 +1,295 @@
+20:00:12 From  zubin | 0xbin.eth  to  Everyone:
+	gm
+20:00:16 From  Danny | Encode  to  Everyone:
+	gm
+20:00:16 From  "Drew" George Roberson  to  Everyone:
+	gm
+20:00:19 From  ziad#0420  to  Everyone:
+	gm!!
+20:00:22 From  Kunal J  to  Everyone:
+	gm
+20:00:22 From  Chris John  to  Everyone:
+	gmgmgmgmgm
+20:00:22 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	gm
+20:00:25 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	gm
+20:00:25 From  iouri volkov  to  Everyone:
+	Gm!
+20:00:36 From  Cas  to  Everyone:
+	hi gn
+20:00:46 From  Pato Funes  to  Everyone:
+	gn
+20:00:52 From  Ahsan Syed  to  Everyone:
+	gm
+20:00:55 From  Shane Duncan  to  Everyone:
+	gm
+20:01:01 From  garygrace  to  Everyone:
+	gm
+20:01:01 From  "Drew" George Roberson  to  Everyone:
+	wagmi
+20:01:02 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	hello all
+20:01:15 From  grmi#6520  to  Everyone:
+	Gm!
+20:01:17 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:01:17 From  Ryan R. Fox | Algorand  to  Everyone:
+	gm
+20:01:19 From  Juan Isaac  to  Everyone:
+	Good afternoon …!!
+20:01:22 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	gmgmg
+20:01:23 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:01:39 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	good afternoon
+20:01:39 From  Mo Kaiko#1069  to  Everyone:
+	GM
+20:01:52 From  Austin Motley  to  Everyone:
+	G	M
+20:04:23 From  Pato Funes  to  Everyone:
+	all good
+20:04:25 From  "Drew" George Roberson  to  Everyone:
+	Got it
+20:04:27 From  Juan Isaac  to  Everyone:
+	Bytes to string
+20:04:27 From  grmi#6520  to  Everyone:
+	Yup pretty clear
+20:04:28 From  electrone#0906  to  Everyone:
+	One more time
+20:04:34 From  Obaid  to  Everyone:
+	one more time
+20:04:35 From  Frances He  to  Everyone:
+	Carl
+20:05:32 From  jaypeeee  to  Everyone:
+	oh whoops haha, we got outs through the contract read method
+20:05:37 From  jaypeeee  to  Everyone:
+	ours*
+20:05:47 From  c114#4508  to  Everyone:
+	I think we did it this way.
+20:05:59 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	we also debugged the sendMessage method
+20:07:52 From  grmi#6520  to  Everyone:
+	I took a shortcut and got the tweet from your GitHub profile 😅
+20:08:11 From  grmi#6520  to  Everyone:
+	Yeah it was on the gist
+20:08:13 From  grmi#6520  to  Everyone:
+	hahahahaah
+20:08:19 From  ziad#0420  to  Everyone:
+	another shortcut: looking at the transactions for your account, and find the one setting the interface address for the teamregistration
+20:08:37 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	yeah, I mean you DID post the contract address on your real actual public twitter account 😄
+20:08:53 From  spazefalcon  to  Everyone:
+	What was the treasure? And how can we see our team name? : )
+20:09:02 From  Ahsan Syed  to  Everyone:
+	@grmi#6520 goat
+20:09:34 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@spazefalcon there is no treasure, you can see your team name by:
+20:10:19 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	checking the event, clicking on the contract, getting the address of the contract creator, looking for the creator address in the teams list
+20:11:00 From  Edward Mercado  to  Everyone:
+	I tried last night on my own and was not able to call the function lol
+20:11:10 From  Edward Mercado  to  Everyone:
+	I see why now
+20:11:11 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@Edward most likely because either:
+20:11:17 From  Brian - 0xlobster  to  Everyone:
+	Is the register contract a whitelist contract?
+20:11:25 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Not registered thats why
+20:11:30 From  Juan Isaac  to  Everyone:
+	https://onlinestringtools.com/convert-bytes-to-string
+20:11:31 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	1- your wallet is not whitelisted in the game contract or 2- the contract was locked and you couldn't whitelist yourself
+20:11:31 From  Edward Mercado  to  Everyone:
+	Yep yep
+20:11:43 From  Juan Isaac  to  Everyone:
+	Convert input bitcode into string
+20:13:10 From  Juan Isaac  to  Everyone:
+	Bytecode
+20:16:26 From  Eduardo Spiegel  to  Everyone:
+	gm
+20:18:23 From  dareadebonojo  to  Everyone:
+	Ronin
+20:18:32 From  "Drew" George Roberson  to  Everyone:
+	There was qudrigacx too
+20:20:51 From  Sparx | Extropy  to  Everyone:
+	Slido Link: https://app.sli.do/event/mGCCEA24h1VE579HSL4mav
+20:20:54 From  Darryl Banks | banks#1770  to  Everyone:
+	And how would a miner blacklist a particular address?
+20:21:48 From  "Drew" George Roberson  to  Everyone:
+	USDC can too
+20:22:41 From  icculus.lyx#3787  to  Everyone:
+	Too bad he didn’t do the Pudgy Penguin sweep!
+20:22:46 From  Jamie - lilpizza.eth  to  Everyone:
+	lol
+20:29:58 From  Juan Isaac  to  Everyone:
+	Man in the middle ??
+20:31:33 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	Isn't that proof of work? lol
+20:31:47 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	that can be said, yeah 😄
+20:33:04 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	probably stolen
+20:33:09 From  Joshua Rainwater  to  Everyone:
+	I did not know functions had “addresses” that needed to be called
+20:33:20 From  Eduardo Spiegel  to  Everyone:
+	neither
+20:33:25 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	provably*
+20:33:37 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	why did the attacker go for Hash(X,bytes,bytes,uint32) and not Hash(X,bytes)?
+20:34:06 From  ziad#0420  to  Everyone:
+	because the manager contract only calls functions that have parameters bytes,bytes,uint32
+20:34:21 From  Gabriel Fior|wisk#9125  to  Everyone:
+	is this the equivalent of having a dynamic function call, for ex. in python? e.g. execute('my_nice_method(arg1))?
+20:35:24 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	More method signature than dynamic function. I would think.
+20:35:48 From  "Drew" George Roberson  to  Everyone:
+	Money printer go brrr
+20:36:25 From  Pato Funes  to  Everyone:
+	what's your take on why this happens? poor auditing?
+20:36:26 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	There is also a youtube explanation
+20:36:27 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	https://www.youtube.com/watch?v=b82SM3t8kxM
+20:36:38 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	Have not watched it; just found it on youtube
+20:39:12 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	when are the values are bytes/bytes/uint64 actually determined? were they always the same so that he was then able to brute force until he got the hash he wanted?
+20:39:27 From  Juan Isaac  to  Everyone:
+	When contract is compiled
+20:39:31 From  Juan Isaac  to  Everyone:
+	I think
+20:39:55 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	okay, thanks
+20:40:51 From  ziad#0420  to  Everyone:
+	is that by using the .call function on address?
+20:43:22 From  Jamie - lilpizza.eth  to  Everyone:
+	whoopsies
+20:43:36 From  Jamie - lilpizza.eth  to  Everyone:
+	now suddenly he goes into saint mode 😂
+20:44:11 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	haha
+20:44:51 From  icculus.lyx#3787  to  Everyone:
+	Dumb question, but is there a specific law that hacking a vulnerable contract is actually illegal?
+20:45:07 From  Jamie - lilpizza.eth  to  Everyone:
+	wow
+20:45:16 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	Good question. Idk
+20:45:21 From  Oscar  to  Everyone:
+	You’re basically stealing money so yeah
+20:45:36 From  Pato Funes  to  Everyone:
+	depends who you ask to, lol
+20:45:42 From  Rodrigo Iglesias - text  to  Everyone:
+	I guess it would be like finding a hole in the wall of the bank and stealing the money..
+20:46:09 From  Oscar  to  Everyone:
+	Or rather financial instruments at the very least
+20:46:15 From  icculus.lyx#3787  to  Everyone:
+	Yea but stealing from a bank is a specific entity, this is a public contract in the wild
+20:47:03 From  Austin Motley  to  Everyone:
+	Does he still work there?
+20:47:22 From  Juan Isaac  to  Everyone:
+	Look up position on linkedin
+20:47:24 From  Juan Isaac  to  Everyone:
+	lol
+20:47:25 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	question is does money which is sitting in contract belong to users or the contract itself.
+20:47:51 From  Gabriel Fior|wisk#9125  to  Everyone:
+	is this dynamic method selection (from the hashes of method name + param types) also true for other chains, like Solana?
+20:48:54 From  Ryan R. Fox | Algorand  to  Everyone:
+	similar implementation on Algorand
+20:49:03 From  Edison Qu  to  Everyone:
+	algorand on top
+20:50:17 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	Can you clarify low level function call?
+20:50:29 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	ETC woohoo
+20:50:36 From  Ryan R. Fox | Algorand  to  Everyone:
+	“Method selector" on Algorand https://developer.algorand.org/docs/get-details/dapps/smart-contracts/ABI/#methods
+20:50:47 From  spazefalcon  to  Everyone:
+	Can you explain how the INTERFACE works?
+20:51:03 From  spazefalcon  to  Everyone:
+	contract to contract ITreasure
+20:52:11 From  tanlooting#2049  to  Everyone:
+	like an abstract base class in python?
+20:52:46 From  robodehri#9894 | Berk  to  Everyone:
+	yes
+20:55:45 From  Laurence Kirk  to  Everyone:
+	rekt.news
+20:57:24 From  Carl (popular#1234)  to  Everyone:
+	https://secureum.substack.com/p/security-pitfalls-and-best-practices-101
+20:57:34 From  Carl (popular#1234)  to  Everyone:
+	Lots of good security best practices in there
+20:58:12 From  jp angelle  to  Everyone:
+	nice share ^
+20:58:18 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Thanks carl
+20:58:25 From  Roman Svar NEWWAVE  to  Everyone:
+	Thanks
+20:59:08 From  Austin Motley  to  Everyone:
+	thanks carl
+20:59:27 From  Sparx | Extropy  to  Everyone:
+	secureum is a really good security bootcamp
+20:59:50 From  Chris Kag | Kag#4245  to  Everyone:
+	+1
+20:59:57 From  Rodrigo Iglesias - text  to  Everyone:
+	thanks!
+21:00:28 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	🔥
+21:02:24 From  Juan Isaac  to  Everyone:
+	https://github.com/fravoll/solidity-patterns
+21:02:56 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	ˆ Disclaimer
+	This repository is not under active development anymore and some (if not most) sections might be outdated. There is no liability for any damages caused by the use of one of these patterns.
+21:03:14 From  Juan Isaac  to  Everyone:
+	Thanks !!!
+21:05:40 From  Juan Isaac  to  Everyone:
+	I think revert() It will refund any remaining gas to the caller.
+21:05:48 From  Juan Isaac  to  Everyone:
+	-it
+21:10:59 From  Edison Qu  to  Everyone:
+	are we going to practice exploiting contracts?
+21:11:07 From  Ahsan Syed  to  Everyone:
+	^
+21:11:13 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	😇
+21:11:30 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	#whitehat
+21:11:37 From  Edward Mercado  to  Everyone:
+	😇
+21:12:13 From  Juan Isaac  to  Everyone:
+	https://github.com/PatrickAlphaC/smartcon-hacker-house-hunt-rules
+21:12:24 From  Juan Isaac  to  Everyone:
+	Great exercise.
+21:12:52 From  Rodrigo Iglesias - text  to  Everyone:
+	+1!
+21:13:03 From  Edward Mercado  to  Everyone:
+	Patrick is a good one to follow
+21:13:13 From  Edison Qu  to  Everyone:
+	LOOOL lets goo !!
+21:14:13 From  Carl (popular#1234)  to  Everyone:
+	Did not mean for that to be a DM 😄 - “Capturetheether and damnvulnerabledefi good as well for CTFs“
+21:14:40 From  Chris Kag | Kag#4245  to  Everyone:
+	https://ethernaut.openzeppelin.com/
+21:14:42 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	^ also ethernaut
+21:14:51 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	yeah, Chris was faster
+21:14:53 From  Chris Kag | Kag#4245  to  Everyone:
+	Yeah ctfs are cool
+21:18:42 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	/*
+21:18:57 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	/* @dev  blabla */
+21:19:46 From  Kunal J  to  Everyone:
+	/** @dev */
+21:20:07 From  Roman Svar NEWWAVE  to  Everyone:
+	😎
+21:20:20 From  Sparx | Extropy  to  Everyone:
+	good link: https://github.com/crytic/blockchain-security-contacts
+21:22:17 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	SafeMath
+21:26:03 From  ziad#0420  to  Everyone:
+	if receive() reverts, would that reject the funds being sent to the contract?

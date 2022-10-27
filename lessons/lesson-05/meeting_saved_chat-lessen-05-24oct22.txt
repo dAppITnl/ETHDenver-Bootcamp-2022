@@ -1,0 +1,168 @@
+20:00:26 From  Shane Duncan  to  Everyone:
+	Gm
+20:00:26 From  Zubin | zkMake.eth  to  Everyone:
+	gm
+20:00:27 From  Kris S  to  Everyone:
+	gm
+20:00:28 From  Danny | Encode  to  Everyone:
+	gm
+20:00:33 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	GM
+20:00:33 From  iouri volkov  to  Everyone:
+	Gm!
+20:00:36 From  ziad#0420  to  Everyone:
+	gm!
+20:00:36 From  Ryan R. Fox | Algorand  to  Everyone:
+	gm
+20:00:37 From  Ahsan Syed  to  Everyone:
+	gm
+20:00:38 From  Chris Kag  to  Everyone:
+	gm
+20:00:38 From  Mo Kaiko#1069  to  Everyone:
+	GM
+20:00:40 From  Piære  to  Everyone:
+	ga
+20:00:41 From  Edison Qu  to  Everyone:
+	gm
+20:00:43 From  Austin Motley  to  Everyone:
+	M G :3 hehehe
+20:00:46 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:00:47 From  grmi#6520  to  Everyone:
+	gm!
+20:00:48 From  icculus.lyx#3787  to  Everyone:
+	GA
+20:00:57 From  walo.spiegel#7137  to  Everyone:
+	gm
+20:00:58 From  Ioannis Gkliatis  to  Everyone:
+	ge everyone
+20:01:11 From  Kunal J  to  Everyone:
+	Happy Diwali to everyone from India
+20:01:13 From  Rodrigo Iglesias  to  Everyone:
+	gm everyone!
+20:01:17 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	gm
+20:01:20 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:01:20 From  Jorge Aspas  to  Everyone:
+	GE
+20:01:35 From  c114#4508  to  Everyone:
+	GM
+20:01:40 From  Kundan Mishra  to  Everyone:
+	gm
+20:01:42 From  Simon B.  to  Everyone:
+	GN
+20:02:20 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	gmgmg
+20:02:24 From  c114#4508  to  Everyone:
+	hi
+20:02:27 From  Grégoire Motot  to  Everyone:
+	GN
+20:02:37 From  Jamie - lilpizza.eth  to  Everyone:
+	GM all
+20:03:13 From  Charles Freeborn | charliecodes#8351  to  Everyone:
+	GM everone
+20:03:14 From  Daks B  to  Everyone:
+	hi everyone!!
+20:03:24 From  Chris Tan | tanto#7716  to  Everyone:
+	gmgmgm
+20:03:24 From  Frances_#6294  to  Everyone:
+	GN
+20:03:27 From  Edison Qu  to  Everyone:
+	can someone send slido
+20:04:12 From  Grégoire Motot  to  Everyone:
+	https://app.sli.do/event/mGCCEA24h1VE579HSL4mav/live/polls
+20:04:22 From  Edison Qu  to  Everyone:
+	thank you gregoire!
+20:04:52 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Grgoire is the man!
+20:05:43 From  Elvin Kakomo  to  Everyone:
+	GN, GM
+20:09:55 From  c114#4508  to  Everyone:
+	why metamask says it ignores nonce?
+20:16:29 From  jp angelle  to  Everyone:
+	metamask sux
+20:16:40 From  iouri volkov  to  Everyone:
+	lol
+20:18:00 From  Simon B.  to  Everyone:
+	Why does it mean, “metamask ignores nonce"?
+20:18:00 From  Moiz Sajid  to  Everyone:
+	Use Tally Ho instead https://tally.cash/
+20:18:06 From  Simon B.  to  Everyone:
+	What*
+20:18:20 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	There's a "State" tab in Etherscan transactions that makes it easier to see funds movement	https://etherscan.io/tx/0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda#statechange
+20:19:56 From  Piære  to  Everyone:
+	thx
+20:20:26 From  jp angelle  to  Everyone:
+	does tally ho work with trezor yet ? 🙏
+20:21:29 From  Will Schiller  to  Everyone:
+	leveldb
+20:21:36 From  Moiz Sajid  to  Everyone:
+	Don't know. I know it supports Ledger though.
+20:23:15 From  Tim Wolters  to  Everyone:
+	is there any discussion about setting the gas price a transaction would like to hit and once it hits that then it sends the transaction?
+20:24:55 From  Paul Len | DefiBro  to  Everyone:
+	You can do that in metamask. just set gas price lower and wait.
+20:25:14 From  Tim Wolters  to  Everyone:
+	cool, didn't know that about metamask
+20:25:42 From  Simon B.  to  Everyone:
+	If the timeout wouldn't be reached.
+20:26:12 From  icculus.lyx#3787  to  Everyone:
+	Just dont touch the limit Tim, then you risk the transaction failing
+20:26:12 From  Paul Len | DefiBro  to  Everyone:
+	You put yourself at greater risk of getting front ran, and because of nonces, you cannot transact on ethereum while you wait
+20:26:38 From  Paul Len | DefiBro  to  Everyone:
+	and yes there is a timeout too
+20:27:11 From  Cameron HR  to  Everyone:
+	Just depends what you're trying to do. I almost always set custom gas though…
+20:41:10 From  Daniel Iñiguez | danieliniguezv#8256  to  Everyone:
+	up until now what memory were we using last week on the contracts we've been writing testing?
+20:41:51 From  Kundan Mishra  to  Everyone:
+	why do we need location for string parameters but not with uint or int
+20:42:26 From  Obaid  to  Everyone:
+	Because strings are expensive
+20:42:47 From  c114#4508  to  Everyone:
+	strings uses pointers
+20:43:06 From  Tim Wolters  to  Everyone:
+	so memory would be available across calls in a single transaction?
+20:43:09 From  Kunal J  to  Everyone:
+	you need to specify what type of "storage mechanisms" you need for strings
+20:43:52 From  Frances_#6294  to  Everyone:
+	stack and heap in OS course
+20:44:01 From  Frances_#6294  to  Everyone:
+	the memory and calldata reminds me....
+20:44:35 From  Juan Isaac  to  Everyone:
+	Storage is expensive! Very expensive operation
+20:45:15 From  Wong Ming Yui Lucas  to  Everyone:
+	Can I store data in layer 2? Any services for that?
+20:47:25 From  Juan Isaac  to  Everyone:
+	https://github.com/djrtwo/evm-opcode-gas-costs/blob/master/opcode-gas-costs_EIP-150_revision-1e18248_2017-04-12.csv
+20:50:34 From  Ihab | Hebx#4470  to  Everyone:
+	solidity visual developer extension in Vscode is also good for specialized visualisation 
+20:54:01 From  Frank Beatrice  to  Everyone:
+	You can reserve gas right?
+20:54:27 From  Frank Beatrice  to  Everyone:
+	✅
+21:01:02 From  Piære  to  Everyone:
+	not easy to get goerli eth these days
+21:01:23 From  Obaid  to  Everyone:
+	Make account on alchemy
+21:01:33 From  Edison Qu  to  Everyone:
+	once every 24 hours
+21:03:37 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	kind of cutting out @laurence
+21:04:07 From  Ihab | Hebx#4470  to  Everyone:
+	my hm4 is already using Ownable contract 
+21:06:43 From  Daniel Iñiguez | danieliniguezv#8256  to  Everyone:
+	which memory have we been using in the contracts that we've been writing and testing?
+21:07:23 From  Brian - 0xlobster  to  Everyone:
+	If anyone has trouble getting etc from a faucet, you can mine it in your browser here: https://goerli-faucet.pk910.de/
+21:07:29 From  icculus.lyx#3787  to  Everyone:
+	It would be nice if we went through the assigned homework the next class day, so we dont get too far behind and make sure we are level set for the next homework assignment.  just imo 🙏🏽
+21:09:15 From  Brian - 0xlobster  to  Everyone:
+	Extra faucets are listed on this page as well:  https://goerli.net/
+21:09:22 From  Jamie - lilpizza.eth  to  Everyone:
+	Thanks Brian
+21:09:33 From  Brian - 0xlobster  to  Everyone:
+	No problem

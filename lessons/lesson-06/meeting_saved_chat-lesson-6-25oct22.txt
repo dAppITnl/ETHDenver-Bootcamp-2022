@@ -1,0 +1,156 @@
+20:00:32 From  zubin | 0xbin.eth  to  Everyone:
+	gm
+20:00:33 From  walo.spiegel#7137  to  Everyone:
+	gm
+20:00:33 From  "Drew" George Roberson  to  Everyone:
+	gm
+20:00:34 From  Danny | Encode  to  Everyone:
+	gm
+20:00:34 From  Pato Funes  to  Everyone:
+	gn
+20:00:40 From  Shane Duncan  to  Everyone:
+	gm
+20:00:41 From  Kunal J  to  Everyone:
+	gm
+20:00:41 From  Piære  to  Everyone:
+	ga
+20:00:45 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:00:50 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	gm
+20:00:53 From  jp angelle  to  Everyone:
+	gm
+20:00:56 From  Austin Motley  to  Everyone:
+	g        m
+20:00:58 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:00:58 From  ziad#0420  to  Everyone:
+	gm 😎
+20:01:01 From  grmi#6520  to  Everyone:
+	gm!
+20:01:05 From  Cas  to  Everyone:
+	GN
+20:01:07 From  Meghana Kallam  to  Everyone:
+	Gm!
+20:01:09 From  iouri volkov  to  Everyone:
+	Gm!
+20:01:09 From  Daks B.  to  Everyone:
+	Hi all
+20:01:10 From  Juan Isaac  to  Everyone:
+	Good afternoon
+20:01:16 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	woooo good afternoon morning all the times of day!
+20:01:17 From  Tyler Parsley | ETHDenver  to  Everyone:
+	GM
+20:01:21 From  Mo Kaiko#1069  to  Everyone:
+	GM
+20:01:24 From  Anas Iguer  to  Everyone:
+	gm
+20:01:30 From  Frances He  to  Everyone:
+	GM
+20:01:34 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	ge!
+20:01:50 From  Rodrigo Iglesias - text  to  Everyone:
+	hi to all!
+20:01:55 From  Kundan Mishra  to  Everyone:
+	gm
+20:01:57 From  Edison Qu  to  Everyone:
+	hi to all!
+20:01:57 From  Nikhil Bhintade  to  Everyone:
+	Hi
+20:01:58 From  Edison Qu  to  Everyone:
+	gm
+20:02:03 From  Yash Jagtap  to  Everyone:
+	hey everyone
+20:02:04 From  Michelle Shelby | miichelleigh#3990  to  Everyone:
+	hey all
+20:05:12 From  "Drew" George Roberson  to  Everyone:
+	I have extra goerli etc if anyone needs any
+20:05:14 From  Sparx | Extropy  to  Everyone:
+	http://team-registration.javascrypt-.repl.co/
+20:05:21 From  "Drew" George Roberson  to  Everyone:
+	EH*
+20:05:23 From  "Drew" George Roberson  to  Everyone:
+	ETH
+20:05:27 From  Edward Mercado  to  Everyone:
+	nope
+20:05:29 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	gm and gg to everyone not in team 10 😉
+20:05:36 From  jp angelle  to  Everyone:
+	does only one person on the team submit this?
+20:05:40 From  "Drew" George Roberson  to  Everyone:
+	Works for me
+20:05:41 From  icculus.lyx#3787  to  Everyone:
+	It works
+20:05:41 From  Piære  to  Everyone:
+	it does
+20:05:43 From  Rodrigo Iglesias - text  to  Everyone:
+	it works
+20:05:45 From  Juan Isaac  to  Everyone:
+	Its working
+20:05:57 From  Edward Mercado  to  Everyone:
+	\not working for me
+20:06:43 From  Danny | Encode  to  Everyone:
+	http://team-registration.javascrypt-.repl.co/
+20:06:49 From  icculus.lyx#3787  to  Everyone:
+	yes
+20:06:54 From  Austin Motley  to  Everyone:
+	got it
+20:06:59 From  Kyle Smurlolee | Smurflo#9580  to  Everyone:
+	"This site can’t be reached" for me. http doesn't seem to help
+20:07:00 From  Edward Mercado  to  Everyone:
+	It worked thx
+20:17:12 From  Greta Ivanauskaite  to  Everyone:
+	https://goerli.etherscan.io/tx/0xfbc7c9c71cc5fa506485bb8864fc8607f813ae6ba13cef3c8a5b42028ae5453a
+20:22:36 From  Greta Ivanauskaite  to  Everyone:
+	0x5aA020F63Dee339AffA3A3df2867088A2332f559
+20:25:12 From  Greta Ivanauskaite  to  Everyone:
+	https://www.rapidtables.com/convert/number/
+20:32:09 From  garygrace  to  Everyone:
+	https://goerli.etherscan.io/address/0x2410637d1302a87fca0ca71f6aeea3627a50071b#readContract
+20:32:58 From  garygrace  to  Everyone:
+	https://bit.ly/3eZ9oVm
+20:34:15 From  Greta Ivanauskaite  to  Everyone:
+	68747470733A2F2F6269742E6C792F334E3674377953
+20:38:27 From  Greta Ivanauskaite  to  Everyone:
+	1110011101010000000100111000101001011101011011010010110000110111100000101111110101010010000101100001101111101100101111110001110111000100011110101111101111110000100110100011100110001010000001100001111111010010010000100100001100110000101010101010110101011001
+20:38:31 From  Greta Ivanauskaite  to  Everyone:
+	https://twitter.com/Janedoe42489302/status/1584951602749722625
+20:39:55 From  Ioannis Gkliatis  to  Everyone:
+	11100111 01010000 00010011 10001010 01011101 01101101 00101100 00110111 10000010 11111101 01010010 00010110 00011011 11101100 10111111 00011101 11000100 01111010 11111011 11110000 10011010 00111001 10001010 00000110 00011111 11010010 01000010 01000011 00110000 10101010 10101101 01011001
+20:40:42 From  garygrace  to  Everyone:
+	E750138A5D6D2C3782FD52161BECBF1DC47AFBF09A398A061FD2424330AAAD59
+20:40:54 From  garygrace  to  Everyone:
+	https://goerli.etherscan.io/tx/0xE750138A5D6D2C3782FD52161BECBF1DC47AFBF09A398A061FD2424330AAAD59
+20:41:19 From  garygrace  to  Everyone:
+	Address in input data: 0x68747470733a2f2f6269742e6c792f33573333624969
+20:43:02 From  garygrace  to  Everyone:
+	https://bit.ly/3W33bIi
+20:44:40 From  garygrace  to  Everyone:
+	https://twitter.com/operationcodes/status/1584938372078137344
+20:44:55 From  garygrace  to  Everyone:
+	Last clue: 0x18acF9DEB7F9535F4848a286b68C729AAc55697a
+20:45:33 From  garygrace  to  Everyone:
+	0x2410637D1302A87Fca0Ca71f6AeEa3627A50071B
+20:48:03 From  Greta Ivanauskaite  to  Everyone:
+	{		"address _address": "0x18acF9DEB7F9535F4848a286b68C729AAc55697a"	}
+20:48:08 From  garygrace  to  Everyone:
+	0x2410637D1302A87Fca0Ca71f6AeEa3627A50071B
+20:48:12 From  Greta Ivanauskaite  to  Everyone:
+	https://goerli.etherscan.io/tx/0x65de8914975fb4ea035b7722fe2aff646a19c589cfb995f63e821064bb831dbf
+21:00:31 From  Greta Ivanauskaite  to  Everyone:
+	https://goerli.etherscan.io/tx/0x8b483f6b2bf794c571c8582e0129e6ed50e738bd2e801bd4f268b5d500f7e129#eventlog
+21:08:14 From  garygrace  to  Everyone:
+	https://goerli.etherscan.io/address/0x18acF9DEB7F9535F4848a286b68C729AAc55697a
+21:15:24 From  garygrace  to  Everyone:
+	https://goerli.etherscan.io/address/0x18acF9DEB7F9535F4848a286b68C729AAc55697a
+21:28:40 From  Michelle Shelby | miichelleigh#3990  to  Everyone:
+	who won?!
+21:28:40 From  "Drew" George Roberson  to  Everyone:
+	Ty papi
+21:28:53 From  grmi#6520  to  Everyone:
+	Mind doing a walkthrough of what was supposed to happen in what order
+21:28:59 From  grmi#6520  to  Everyone:
+	Like real quick
+21:29:07 From  Grégoire Motot  to  Everyone:
+	when position will be updated  please ?
