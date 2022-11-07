@@ -1,0 +1,14 @@
+{
+  "name": "lesson-08",
+  "version": "1.0.0",
+  "description": "homework-08",
+  "main": "index.js",
+  "author": "CasNWK",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
