@@ -1,0 +1,78 @@
+20:00:23 From  ziad#0420  to  Everyone:
+	gm!
+20:00:32 From  Danny | Encode  to  Everyone:
+	gm
+20:00:33 From  Shane Duncan  to  Everyone:
+	gm
+20:00:36 From  Kunal J  to  Everyone:
+	gm
+20:00:38 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:00:40 From  iouri volkov  to  Everyone:
+	gm
+20:00:48 From  Anas Iguer | anas.ig#8348  to  Everyone:
+	GM
+20:00:48 From  Mo Kaiko#1069  to  Everyone:
+	GM
+20:00:52 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	GM
+20:00:52 From  Edison Qu  to  Everyone:
+	gm
+20:00:53 From  Ioannis Gkliatis  to  Everyone:
+	Hello Everyone!!!
+20:00:54 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:00:55 From  Duncan Cox | Learning Economy  to  Everyone:
+	gm
+20:01:02 From  dareadebonojo  to  Everyone:
+	Happy Halloween
+20:01:13 From  Eduardo Spiegel  to  Everyone:
+	gm
+20:01:26 From  Rodrigo Iglesias - text  to  Everyone:
+	hi to all
+20:01:31 From  Ryan R. Fox | Algorand  to  Everyone:
+	gm
+20:01:42 From  Ahsan Syed  to  Everyone:
+	gm
+20:02:11 From  Kunal J  to  Everyone:
+	Hi
+20:02:19 From  Daks B.  to  Everyone:
+	Hi all
+20:02:53 From  Austin Motley  to  Everyone:
+	gm
+20:04:32 From  Roman Svar NEWWAVE  to  Everyone:
+	😎
+20:05:47 From  Tim Wolters  to  Everyone:
+	gm!
+20:06:14 From  Fox | Extropy  to  Everyone:
+	https://app.sli.do/event/mGCCEA24h1VE579HSL4mav/live/questions
+20:07:50 From  Charles Freeborn | charliecodes#8351  to  Everyone:
+	GM
+20:13:16 From  ziad#0420  to  Everyone:
+	makes sense. this has everything needed to generate the 4-byte method "identity" you were telling us about last week.
+20:15:32 From  Marissa Curry  to  Everyone:
+	GM
+20:29:21 From  ziad#0420  to  Everyone:
+	you wrote hardat
+20:29:27 From  kvutien  to  Everyone:
+	In cas it might help someone, in my homework 8 I described how I did the Hardhat tests and the meaning of each test instruction: https://github.com/kvutien/Project-ETHDenver-bootcamp/blob/main/session_8/README_8.md
+20:29:31 From  Piære  to  Everyone:
+	typo
+20:30:18 From  Mo Kaiko#1069  to  Everyone:
+	missed h
+20:30:30 From  Rodrigo Iglesias - text  to  Everyone:
+	beautiful readme format @kvutien, thanks!
+20:31:04 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	👍🏻
+20:31:46 From  Esteban Rodriguez  to  Everyone:
+	Thanks Kvutien
+20:31:53 From  Piære  to  Everyone:
+	Great documentation @kvutien 🙏🏻
+20:40:09 From  Paul Len  to  Everyone:
+	when you fork mainnet, are you downloading and cloning the full history?
+20:40:10 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	https://gitpod.io/workspaces/
+21:28:26 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	do we have voice rooms in discord specific to teams?
+21:28:36 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	On forum they say ERC721Full IS integrated to ERC721

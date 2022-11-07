@@ -1,0 +1,360 @@
+19:58:44 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	gm
+19:58:47 From  ziad#0420  to  Everyone:
+	gm 🏳️‍🌈
+19:58:51 From  Kunal J  to  Everyone:
+	gm
+19:58:53 From  Ioannis Gkliatis  to  Everyone:
+	Hello everyone!!!
+19:58:55 From  Cas  to  Everyone:
+	GN
+19:59:41 From  i am Pony  to  Everyone:
+	Janette MoranJanette Moran -
+20:00:31 From  bx pana  to  Everyone:
+	gm gm
+20:00:34 From  zubin | 0xbin.eth  to  Everyone:
+	gm
+20:00:46 From  iouri volkov  to  Everyone:
+	Gm!
+20:00:47 From  Shane Duncan  to  Everyone:
+	gm
+20:01:04 From  Sparx | Extropy  to  Everyone:
+	Slido: https://app.sli.do/event/mGCCEA24h1VE579HSL4mav
+20:01:15 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	`Good ${timeOfDay} everyone!`
+20:01:16 From  "Drew" George Roberson  to  Everyone:
+	gm
+20:01:18 From  "Drew" George Roberson  to  Everyone:
+	wagmi
+20:01:22 From  Mo Kaiko#1069  to  Everyone:
+	GM
+20:01:23 From  Latricia Nickelberry(TriciaDev23)  to  Everyone:
+	gm
+20:01:26 From  Nick Lamb  to  Everyone:
+	GM
+20:01:27 From  Rodrigo Iglesias - text  to  Everyone:
+	hi to all!
+20:01:30 From  Obaid  to  Everyone:
+	gm
+20:01:30 From  Frances He  to  Everyone:
+	gm
+20:01:34 From  Edward Mercado  to  Everyone:
+	gm
+20:01:37 From  Anas Iguer | anas.ig#8348  to  Everyone:
+	GM
+20:01:45 From  Daks B.  to  Everyone:
+	Hi all
+20:01:52 From  jaypeeee  to  Everyone:
+	gm
+20:02:09 From  Janette Moran - i am Pony  to  Everyone:
+	JMoran - -Shout out to Lawrence, Danny, and the whole team. TYSM for all the valuble education.
+20:02:20 From  Eduardo Spiegel  to  Everyone:
+	gm
+20:02:33 From  Misha Grebenyuk (TheNiceEngineer)  to  Everyone:
+	gm
+20:02:35 From  Oscar  to  Everyone:
+	hi
+20:02:39 From  Kunal J  to  Everyone:
+	hello
+20:02:55 From  Janette Moran - i am Pony  to  Everyone:
+	gd
+20:03:19 From  Ryan R. Fox | Algorand  to  Everyone:
+	gm
+20:03:33 From  DAVID KATHOH  to  Everyone:
+	Gm
+20:04:14 From  "Drew" George Roberson  to  Everyone:
+	Would love to see encode get more into cosmos ecosystem it’s a fast growing space
+20:04:25 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Some dudes in Hollywood will definitely make it happen
+20:07:38 From  kvutien  to  Everyone:
+	The DAO was written with Frontier, if I remember well?
+20:08:50 From  Juan Isaac  to  Everyone:
+	Any dao ideas?
+20:16:37 From  Edison Qu  to  Everyone:
+	eth is basically centralized to vitalik?
+20:16:56 From  Chris Kag | Kag#4245  to  Everyone:
+	No it isn't
+20:17:07 From  Chris Kag | Kag#4245  to  Everyone:
+	It has a network of validators now
+20:17:07 From  malmeida#9344 Marcos Almeida  to  Everyone:
+	gm
+20:17:08 From  "Drew" George Roberson  to  Everyone:
+	Nah humans just always need a face to a network
+20:18:10 From  Juan Isaac  to  Everyone:
+	I think he just replicated the whole evm and just left out that block..
+20:23:05 From  Gabriel Fior | wisk#9125  to  Everyone:
+	What about the gas cost for this reentrancy loop (contract -> fallback -> contract)?
+20:27:56 From  Marco Giangolini  to  Everyone:
+	the way the attacker exploited this weakness by using reentrancy led to constrain the possibility of reentrancy to a certain limit?
+20:30:24 From  "Drew" George Roberson  to  Everyone:
+	*begins dialing the internet police*
+20:33:42 From  jaypeeee  to  Everyone:
+	Code isn’t law, the will of the people is law. The majority of the network agreed to this hardfork.
+20:33:52 From  Juan Isaac  to  Everyone:
+	How can I set up a mining pool on a layer2?
+20:34:24 From  robodehri#9894 | Berk Dehrioğlu  to  Everyone:
+	There is no mining at l2s
+20:34:39 From  Jamie - lilpizza.eth  to  Everyone:
+	^
+20:35:22 From  Juan Isaac  to  Everyone:
+	A little late lol. Thanks.
+20:36:05 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Well now ALL the miners came back to ETC haha
+20:36:09 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	If your friend bought the DAO coins, didn't all the wallets get back to the way they were before? how did he benefit
+20:36:12 From  "Drew" George Roberson  to  Everyone:
+	The bitcoin cash of ethereum
+20:36:26 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	ˆnot anymore
+20:37:06 From  jaypeeee  to  Everyone:
+	i think just the block that included the hack was removed. not that subsequent blocks.
+20:37:10 From  jaypeeee  to  Everyone:
+	the*
+20:37:40 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	Cryptography assures you can't remove 1 block I believe
+20:37:43 From  Cyrus | icculus.lyx#3787  to  Everyone:
+	but aren't the subsequent blocks dependent on that one?
+20:37:55 From  Oscar  to  Everyone:
+	Yes
+20:37:59 From  Edison Qu  to  Everyone:
+	same idea w the PoW Ethereum chainnow right
+20:38:00 From  jaypeeee  to  Everyone:
+	hm good point
+20:38:09 From  Oscar  to  Everyone:
+	It’s like Shlomi said
+20:40:14 From  Piære  to  Everyone:
+	Laura Shin doxxed the attacker in her book if you’re interested
+20:40:43 From  Brian - 0xlobster  to  Everyone:
+	That amount of ETC is worth about $84,000,000 at today’s price
+20:40:56 From  Edison Qu  to  Everyone:
+	are you able to swap ETC with ETH?
+20:41:13 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Exchanges of course you can
+20:41:19 From  Oscar  to  Everyone:
+	Through cex
+20:41:31 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	or dex
+20:41:37 From  Rodrigo Iglesias - text  to  Everyone:
+	maybe you have derivatives of eth classic on other chains
+20:41:47 From  Edison Qu  to  Everyone:
+	does that mean (double the amount of eth they had)?
+20:41:57 From  Brian - 0xlobster  to  Everyone:
+	There are probably ways to do it today on a DEX or bridge today, but I don’t think you had many options outside of a CEX back then
+20:44:05 From  "Drew" George Roberson  to  Everyone:
+	Rip ookidao
+20:45:13 From  Rodrigo Iglesias - text  to  Everyone:
+	its a lot of responsibility to write code that holds other peoples money 😱
+20:45:14 From  Ahsan Syed  to  Everyone:
+	quite dystopic
+20:45:17 From  theDragonDaniel (Daniel)  to  Everyone:
+	without due process
+20:45:21 From  Dare  to  Everyone:
+	Free Alex!
+20:45:59 From  Antonio Di Francesco  to  Everyone:
+	Laurence what did you vote for?
+20:47:13 From  jaypeeee  to  Everyone:
+	meatspace!
+20:47:17 From  Oscar  to  Everyone:
+	I think you voted against the hard fork
+20:47:18 From  Janette Moran - i am Pony  to  Everyone:
+	Fork
+20:47:18 From  Charles Freeborn | charliecodes#8351  to  Everyone:
+	lol
+20:47:19 From  Ioannis Gkliatis  to  Everyone:
+	Against
+20:47:19 From  Chris John  to  Everyone:
+	for the fork
+20:47:20 From  Ryan R. Fox | Algorand  to  Everyone:
+	for
+20:47:21 From  Cyrus | icculus.lyx#3787  to  Everyone:
+	Against
+20:47:21 From  Edison Qu  to  Everyone:
+	against
+20:47:21 From  Shane Duncan  to  Everyone:
+	against
+20:47:21 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	Against
+20:47:21 From  Ahsan Syed  to  Everyone:
+	for
+20:47:21 From  walo.spiegel#7137  to  Everyone:
+	NO FORK
+20:47:21 From  Antonio Di Francesco  to  Everyone:
+	I think you were against the fork
+20:47:23 From  Piære  to  Everyone:
+	for
+20:47:23 From  "Drew" George Roberson  to  Everyone:
+	4
+20:47:23 From  Rodrigo Iglesias - text  to  Everyone:
+	For the fork
+20:47:23 From  gracechao101  to  Everyone:
+	for the fork
+20:47:23 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	for
+20:47:23 From  Vansh  to  Everyone:
+	hard fork
+20:47:23 From  Tim Wolters  to  Everyone:
+	for
+20:47:23 From  tanlooting#2049  to  Everyone:
+	against
+20:47:23 From  Dare  to  Everyone:
+	For
+20:47:24 From  Pato Funes  to  Everyone:
+	against! haha
+20:47:25 From  Duncan Cox | Learning Economy Foundation  to  Everyone:
+	for
+20:47:25 From  Corey H | WordsPerMinute#3546  to  Everyone:
+	for
+20:47:25 From  Christine Mukiri  to  Everyone:
+	Against
+20:47:25 From  Daks B.  to  Everyone:
+	for
+20:47:25 From  Charles Freeborn | charliecodes#8351  to  Everyone:
+	against
+20:47:25 From  Oscar  to  Everyone:
+	Against, totally
+20:47:26 From  Anas Iguer | anas.ig#8348  to  Everyone:
+	for
+20:47:26 From  Chris Kag | Kag#4245  to  Everyone:
+	against
+20:47:26 From  Brian - 0xlobster  to  Everyone:
+	for
+20:47:26 From  Justin Gaffney  to  Everyone:
+	against
+20:47:26 From  Esteban Rodriguez  to  Everyone:
+	Fork
+20:47:27 From  Austin Motley  to  Everyone:
+	sounds like against
+20:47:27 From  Robert W  to  Everyone:
+	for
+20:47:27 From  Moiz Sajid  to  Everyone:
+	For
+20:47:28 From  Elvin Kakomo  to  Everyone:
+	for the fork
+20:47:28 From  theDragonDaniel (Daniel)  to  Everyone:
+	for etc /jk
+20:47:29 From  Edward Mercado  to  Everyone:
+	4
+20:47:29 From  Vansh  to  Everyone:
+	fork
+20:47:30 From  Sparx | Extropy  to  Everyone:
+	we can do a poll on slido
+20:47:30 From  Michelle Shelby | miichelleigh#3990  to  Everyone:
+	against
+20:47:31 From  "Drew" George Roberson  to  Everyone:
+	42
+20:47:31 From  Nick Lamb  to  Everyone:
+	for
+20:47:32 From  Kunal J  to  Everyone:
+	fork
+20:47:32 From  sspe  to  Everyone:
+	U didn’t vote
+20:47:33 From  Marco Giangolini  to  Everyone:
+	hard fork
+20:47:33 From  Joshua Rainwater  to  Everyone:
+	Laozi would have vote against probably
+20:47:35 From  walo.spiegel#7137  to  Everyone:
+	AGAINST
+20:47:35 From  Tim Wolters  to  Everyone:
+	how much money did you have in??
+20:47:37 From  mary brown  to  Everyone:
+	against
+20:47:43 From  Antonio Di Francesco  to  Everyone:
+	And if you're the attacker, just tell us, we won't judge
+20:47:54 From  Shlomi Farkash|Shloyem#1673  to  Everyone:
+	How did your friend benefit after the hack? did he buy ETC?
+20:47:54 From  Mo Kaiko#1069  to  Everyone:
+	against
+20:47:59 From  Rodrigo Iglesias - text  to  Everyone:
+	https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=691510057f58
+20:48:06 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	“And if you're the attacker, just tell us, we won't judge” - good one haha
+20:48:17 From  Austin Motley  to  Everyone:
+	😂 good one
+20:48:33 From  Sparx | Extropy  to  Everyone:
+	https://app.sli.do/event/mGCCEA24h1VE579HSL4mav
+20:50:03 From  Chris John  to  Everyone:
+	whoa
+20:50:08 From  Ryan R. Fox | Algorand  to  Everyone:
+	I was with you mate!
+20:50:13 From  Chris John  to  Everyone:
+	hahaha
+20:50:13 From  Darryl Banks | banks#1770  to  Everyone:
+	obvs
+20:50:25 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Ideals vs Sefl Interest vote
+20:50:31 From  Michelle Shelby | miichelleigh#3990  to  Everyone:
+	^^
+20:50:31 From  mary brown  to  Everyone:
+	man of principles
+20:50:37 From  Christine Mukiri  to  Everyone:
+	Would you vote the same way today?
+20:54:13 From  Jorge Aspas  to  Everyone:
+	any good plugins to write contracts on vim/nvim?
+20:54:21 From  Gabriel Fior | wisk#9125  to  Everyone:
+	hardhat deploy also a delight
+20:54:51 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	plugin and vim dont go in the same sentence haha
+20:55:10 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	vs code you mean perhaps
+20:55:34 From  robodehri#9894 | Berk Dehrioğlu  to  Everyone:
+	There are many plugins for vim
+20:55:41 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	really?
+20:55:44 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	where?
+20:55:49 From  robodehri#9894 | Berk Dehrioğlu  to  Everyone:
+	But not sure about smartcontracts
+20:56:09 From  Austin Motley  to  Everyone:
+	I like foundry 😁
+20:56:23 From  electrone  to  Everyone:
+	Y foundry?
+20:56:23 From  Enkhuliral Dechin (enkhmanal)  to  Everyone:
+	HOw is foundry better than hardhat
+20:56:46 From  Kundan Mishra  to  Everyone:
+	foundry is awesome
+20:57:02 From  electrone  to  Everyone:
+	How?
+20:57:14 From  kvutien  to  Everyone:
+	Weekend philosophic question: is decentralization an illusion, after all? Some humans have to vote and do the final decision, like the outcome of The DAO hack. Analogous is the Gödel theorem of uncertainty: a logical environment can't decide about itself.
+20:57:24 From  Cameron HR  to  Everyone:
+	Anthony, look in your vimrc, you are probably using some already.
+20:57:44 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	@robo only used the terminal version and didnt go too far with it :p
+20:57:55 From  robodehri#9894 | Berk Dehrioğlu  to  Everyone:
+	There are no other versions
+20:58:00 From  Austin Motley  to  Everyone:
+	foundry is super fast
+20:58:03 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	yes yes. Makes sense vimrc are plugins
+20:58:14 From  Kundan Mishra  to  Everyone:
+	The thing I like about foundry is that I don't have to switch between solidity and javascript
+20:58:32 From  Anthony COLAS  | ToDestiny.eth#7351  to  Everyone:
+	Thanks! We learn new things every day!
+20:59:05 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@kvutien proper decentralization requires a whole lot of people to chime in with sweat equity of their own. a lot more people than the current number. as we see in the real world, given the choice, people will always prefer to just not do jack shit and free ride on whatever improvements are given to them over doing actual work to make the world better
+21:00:48 From  ziad#0420  to  Everyone:
+	since this seems so streamlined, why isn't there a `hardhat deploy` command?
+21:02:09 From  Oscar  to  Everyone:
+	Because maybe you want to do stuff before/during/after the deployment so a script allows you do that
+21:02:35 From  Chuck d'Gaf#1337 | @0xdGaf  to  Everyone:
+	Looks like they borrowed RSpec's DSL
+21:09:13 From  Kemal Ardıl Gülez | Feather#6011  to  Everyone:
+	@ziad deploy what? I mean, even Remix asks you which contract you would like to deploy and what you want to use as constructor args. How is hardhat supposed to know that without asking? What if you want to deploy multiple contracts and use some value from the contract you deploy first as a constructor argument for the second contract?
+21:13:21 From  Gabriel Fior | wisk#9125  to  Everyone:
+	https://github.com/wighawag/hardhat-deploy
+21:13:28 From  Michelle Shelby | miichelleigh#3990  to  Everyone:
+	good points, i'm excited to try foundry
+21:13:40 From  Ihab | Hebx  to  Everyone:
+	written in Rust language
+21:15:14 From  Austin Motley  to  Everyone:
+	https://book.getfoundry.sh/
+21:18:27 From  Ihab | Hebx  to  Everyone:
+	Whats the differene between Foundry Assertion test and Echidna Fuzzing ? 
+21:19:20 From  Ioannis Gkliatis  to  Everyone:
+	Thanks for the link Austin!
+21:20:28 From  Austin Motley  to  Everyone:
+	No problem! :)
+21:21:32 From  Chris Kag | Kag#4245  to  Everyone:
+	Echidna uses more advanced technics to find bugs I think
+21:21:39 From  Chris Kag | Kag#4245  to  Everyone:
+	https://0xmacro.com/blog/fuzzing-with-echidna/#:~:text=While%20both%20Foundry%20and%20Echidna,transactions%20to%20achieve%20high%20coverage.
